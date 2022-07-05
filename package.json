@@ -7,7 +7,7 @@
     "start": "node server",
     "dev": "nodemon sever"
   },
-  "author": "",
+  "author": "Siddhant Jaiswal",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1",
